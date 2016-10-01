@@ -8,3 +8,4 @@ Spring transaction management sample codes for 4 different ways of transaction m
 3. git push -u origin master
 4. git pull origin master (If README.ME was created)
 5. git pull origin master
+6. git remote rm origin (if wrong repository was linked)
